@@ -11,7 +11,7 @@ The selenium based script uses browser automation to emulate clicks and scrolls 
 
 ## DataFrames Schema:
 
-[!DataFrame_Schema](https://github.com/mkdhake2000/IMDB-Top-20-movies-per-genre/blob/main/imdb_genre_dataframes.drawio.png)
+![DataFrame_Schema](https://github.com/mkdhake2000/IMDB-Top-20-movies-per-genre/blob/main/imdb_genre_dataframes.drawio.png)
 
 ## Environment Setup:
 
