@@ -7,7 +7,7 @@ The task involves developing a website data extracting script to extract informa
 
 ## Working:
 
-The selenium based script uses browser automation to emulate clicks and scrolls and uses the elements to extract the data from the IMDB website. FIREFOX browser is used for automation and the required web driver tool is attached in the directory. The script is tested and running on FIREFOX V121.0. The code creates two drivers, one extracting the movie data and other extracting the user reviews data. The data of each genre top 20 movies is stored under the 'genre_name.csv' file in the 'genre_dump_csv/' directory where genre_name is the name of the genre and the user reviews per movie is stored in the 'movie_reviews.csv' file. 
+The selenium based script uses browser automation to emulate clicks and scrolls and uses the elements to extract the data from the IMDB website. FIREFOX browser is used for automation and the required web driver tool is attached in the directory. The script is tested and running on FIREFOX V121.0. The code creates two drivers, one extracting the movie data and other extracting the user reviews data. The data of each genre top 20 movies is stored under the 'genre_name.csv' file in the 'genre_dump_csv/' directory where genre_name is the name of the genre and the user reviews per movie is stored in the 'movie_reviews.csv' file. The structure/schema of the dataframes exported into csv is explained by the 'imdb_genre_dataframes.drawio' file.
 
 ## Environment Setup:
 
